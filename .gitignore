@@ -1,0 +1,15 @@
+venv
+__pycache__
+.idea
+# Airflow logs
+logs/
+
+# Python
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# Mac/Windows junk
+.DS_Store
